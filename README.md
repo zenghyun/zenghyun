@@ -2,7 +2,7 @@
 
 
 
-### <p  align="center">Tech Stack 🛠️</p>
+## <p  align="center">Tech Stack 🛠️</p>
 
 #### <p  align="center">💡 used as the main</p>
 <br/>

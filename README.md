@@ -2,9 +2,9 @@
 
 
 
-## <p  align="center">Tech Stack 🛠️</p>
+## <p  align="center">🛠️ Tech Stack 🛠️</p>
 
-#### <p  align="center">💡 used as the main</p>
+### <p  align="center">💡 used as the main</p>
 <br/>
 <div  align="center">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -23,16 +23,21 @@
 
 
 
-####  <p  align="center">💡 used at least once</p>
+###  <p  align="center">💡 used at least once</p>
 <div  align="center">
    <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
     <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-      <img src="https://img.shields.io/badge/nextjs-nextdotjs?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <br />
+      <img src="https://img.shields.io/badge/nextjs-nextdotjs?style=for-the-badge&logo=nextdotjs&logoColor=white">
     <img src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
     <img src="https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
 <br/>
 
+## <p  align="center">Stats ⭐️</p>
+
+![Zenghyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=zenghyun&show_icons=true&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenghyun&layout=compact&theme=calm)

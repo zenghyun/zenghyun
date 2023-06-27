@@ -39,6 +39,7 @@
   <br />
     <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
    <img src="https://img.shields.io/badge/koa-33333D?style=for-the-badge&logo=koa&logoColor=white">
+   <img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
 </div>
 <br/>
 

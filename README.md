@@ -2,8 +2,7 @@
 
 
 
-## <p>🛠️  Tech Stack  🛠️</p>
-
+<p>🛠️  Tech Stack  🛠️</p>
 <p>💡 Used as the main</p>
 
   <p>🧑🏻‍💻 Web Technologies</p>

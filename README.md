@@ -73,5 +73,5 @@
 
  <p>⭐️  Stats  ⭐️</p>
 
-![Zenghyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=zenghyun&show_icons=true&theme=synthwave)
+![Zenghyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=zenghyun&show_icons=true&theme=synthwave&count_private=true )
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenghyun&layout=compact&theme=calm)

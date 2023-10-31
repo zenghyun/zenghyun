@@ -75,4 +75,4 @@
 
 ![Zenghyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=zenghyun&show_icons=true&theme=synthwave&count_private=true )
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenghyun&layout=compact&theme=calm)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pipo36)](https://solved.ac/pipo36/)
+
